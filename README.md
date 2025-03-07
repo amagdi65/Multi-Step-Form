@@ -9,23 +9,23 @@ This project is built using [Vite](https://vitejs.dev/) with React and is config
 
 ## Setup Instructions
 
-1. **Clone the Repository** (if applicable)
+1. **Clone the Repository** 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/amagdi65/Multi-Step-Form
    cd your-repo
 
-2. **Install dependancies** (if applicable)
+2. **Install dependancies** 
    ```bash
      npm install
 
-3. **Start Development Server** (if applicable)
+3. **Start Development Server** 
    ```bash
      npm run dev
 
-4. **Preview the Production Build** (if applicable)
+4. **Preview the Production Build** 
    ```bash
      npm run preview
-     
-5. **Build for Production** (if applicable)
+
+5. **Build for Production** 
    ```bash
      npm run build
